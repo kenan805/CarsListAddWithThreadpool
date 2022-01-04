@@ -1,0 +1,20 @@
+[
+  {
+    "Vendor": "Kia",
+    "Model": "Sorento",
+    "Year": 2016,
+    "ImagePath": "\\Images\\KiaSorento.jpg"
+  },
+  {
+    "Vendor": "GAZ",
+    "Model": "24",
+    "Year": 1985,
+    "ImagePath": "\\Images\\Gaz24.jpg"
+  },
+  {
+    "Vendor": "Audi",
+    "Model": "Q7",
+    "Year": 2021,
+    "ImagePath": "\\Images\\AudiQ7.jpg"
+  }
+]

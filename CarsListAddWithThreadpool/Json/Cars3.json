@@ -1,0 +1,14 @@
+[
+  {
+    "Vendor": "Cadillac",
+    "Model": "CT6",
+    "Year": 2018,
+    "ImagePath": "\\Images\\CadillacCT6.jpg"
+  },
+  {
+    "Vendor": "Ford",
+    "Model": "F-150",
+    "Year": 2019,
+    "ImagePath": "\\Images\\FordF150.jpg"
+  }
+]

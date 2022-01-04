@@ -1,0 +1,20 @@
+[
+  {
+    "Vendor": "LADA",
+    "Model": "Niva",
+    "Year": 2020,
+    "ImagePath": "\\Images\\Niva.jpg"
+  },
+  {
+    "Vendor": "LADA",
+    "Model": "2107",
+    "Year": 2011,
+    "ImagePath": "\\Images\\2107.jpg"
+  },
+  {
+    "Vendor": "LADA",
+    "Model": "Priora",
+    "Year": 2015,
+    "ImagePath": "\\Images\\priora.jpg"
+  }
+]

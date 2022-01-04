@@ -1,0 +1,14 @@
+[
+  {
+    "Vendor": "BMW",
+    "Model": "M5",
+    "Year": 2012,
+    "ImagePath": "\\Images\\BmwM5.jpg"
+  },
+  {
+    "Vendor": "Mercedes",
+    "Model": "S 450",
+    "Year": 2020,
+    "ImagePath": "\\Images\\MercedesS450.jpg"
+  }
+]

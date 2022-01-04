@@ -1,0 +1,20 @@
+[
+  {
+    "Vendor": "Toyota",
+    "Model": "Camry",
+    "Year": 2019,
+    "ImagePath": "\\Images\\ToyotaCamry.jpg"
+  },
+  {
+    "Vendor": "Mercedes",
+    "Model": "G 63",
+    "Year": 2012,
+    "ImagePath": "\\Images\\Galik.jpg"
+  },
+  {
+    "Vendor": "Mercedes",
+    "Model": "E200",
+    "Year": 2012,
+    "ImagePath": "\\Images\\E200.jpg"
+  }
+]
